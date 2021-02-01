@@ -4,7 +4,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project hold the an updated version of the parallax controller files. 
+This project hold the an updated version of the parallax controller files.
 A detailed how-to can be found on YouTube:
 
 ## Getting Started
