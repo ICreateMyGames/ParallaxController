@@ -1,24 +1,23 @@
 # ParallaxController
-# Tutorial Parallax Start
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 This project hold the an updated version of the parallax controller files.
-<!--A detailed how-to can be found on YouTube:-->
+A short how-to can be found on [YouTube](https://youtu.be/8gd1Iu06E7w)
 
 ## Getting Started
 
 1. Select Code > Download ZIP
 2. Unzip folder Parallax_Controller
-3. Drag the folder content to your Project Asset folder 
+3. Drag the folder content to your project Asset folder 
 4. Apply the ParallaxController & ParallaxImage Components
 
 ## Contact
 
 I Create My Games - [@GamedevStartup](https://twitter.com/GamedevStartup) - contact@icreatemy.games
 
-Project Link: [https://github.com/ICreateMyGames/TutorialParallaxStart](https://github.com/ICreateMyGames/TutorialParallaxStart)
+Project Link: [https://github.com/ICreateMyGames/ParallaxController](https://github.com/ICreateMyGames/ParallaxController)
 
 <!-- LICENSE -->
 ## License
